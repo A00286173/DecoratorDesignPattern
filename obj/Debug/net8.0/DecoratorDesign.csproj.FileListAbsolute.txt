@@ -1,0 +1,14 @@
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\bin\Debug\net8.0\DecoratorDesign.exe
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\bin\Debug\net8.0\DecoratorDesign.deps.json
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\bin\Debug\net8.0\DecoratorDesign.runtimeconfig.json
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\bin\Debug\net8.0\DecoratorDesign.dll
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\bin\Debug\net8.0\DecoratorDesign.pdb
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\obj\Debug\net8.0\DecoratorDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\obj\Debug\net8.0\DecoratorDesign.AssemblyInfoInputs.cache
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\obj\Debug\net8.0\DecoratorDesign.AssemblyInfo.cs
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\obj\Debug\net8.0\DecoratorDesign.csproj.CoreCompileInputs.cache
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\obj\Debug\net8.0\DecoratorDesign.dll
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\obj\Debug\net8.0\refint\DecoratorDesign.dll
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\obj\Debug\net8.0\DecoratorDesign.pdb
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\obj\Debug\net8.0\DecoratorDesign.genruntimeconfig.cache
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\obj\Debug\net8.0\ref\DecoratorDesign.dll
