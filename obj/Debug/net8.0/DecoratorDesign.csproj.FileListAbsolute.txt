@@ -12,3 +12,4 @@ C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\obj\Debug\net8.0\ref
 C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\obj\Debug\net8.0\DecoratorDesign.pdb
 C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\obj\Debug\net8.0\DecoratorDesign.genruntimeconfig.cache
 C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\obj\Debug\net8.0\ref\DecoratorDesign.dll
+C:\Users\tiwar\source\repos\DecoratorDesign\DecoratorDesign\obj\Debug\net8.0\DecoratorDesign.sourcelink.json
